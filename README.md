@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About injili:
 🔭 I’m currently working on educational projects.<br>👯 I’m looking to collaborate on Python and javascript projects.<br>🤝 I’m looking for help with open source contribution.<br>🌱 I’m currently learning software engineering at ALX<br>💬 Ask me about python<br>⚡ Fun fact: I prefer tea to coffee. Ha!
 
 
