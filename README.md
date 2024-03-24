@@ -1,6 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on educational projects.<br>👯 I’m looking to collaborate on Python and javascript projects.<br>🤝 I’m looking for help with open-source contribution.<br>🌱 I’m currently learning software engineering at ALX Africa.<br>💬 Ask me about Python.<br>⚡ Fun fact : mahn IDK
+🔭 I’m currently working on educational projects.<br>👯 I’m looking to collaborate on Python and JavaScript projects.<br>🤝 I’m looking for help with open-source contribution.<br>🌱 I’m currently learning software engineering at ALX Africa.<br>💬 Ask me about Python.<br>⚡ Fun fact: mahn IDK
 
+## That Streak:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=injili)](https://git.io/streak-stats)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_njili) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Nyarekigospel) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/i_njili) 
