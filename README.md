@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on educational projects.<br>👯 I’m looking to collaborate on Python and JavaScript projects.<br>🤝 I’m looking for help with open-source contribution.<br>🌱 I’m currently learning something new.<br>💬 Ask me about JS.<br>⚡ 
+🔭 I’m currently working on educational projects.<br>👯 I’m looking to collaborate on Python and JavaScript projects.<br>🤝 I’m looking for help with open-source contribution.<br>🌱 I’m currently learning something new.<br>💬 Ask me about JS.<br>
 
 
 ## 🌐 Socials:
